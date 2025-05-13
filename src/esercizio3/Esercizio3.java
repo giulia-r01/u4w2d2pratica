@@ -19,9 +19,9 @@ public class Esercizio3 {
     }
 
     public String cercaPersona(String tel){
-        Set<String> chiavi = rubrica.keySet();
+        Set<String> chiaviNomi = rubrica.keySet();
 
-        for (String nome : chiavi) {
+        for (String nome : chiaviNomi) {
             if(rubrica.get(nome).equals(tel)){
                 return nome;
             }

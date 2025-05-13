@@ -14,9 +14,12 @@ public class MainEsercizio2 {
         List<Integer> listaOrdinata = generaListaCasuale(n);
         System.out.println("Lista ordinata casuale: " + listaOrdinata);
 
+        System.out.println("---------------");
+
         List<Integer> listaDuplicata = duplicaConInverso(listaOrdinata);
         System.out.println("Lista duplicata con inverso: " + listaDuplicata);
 
+        System.out.println("---------------");
         stampaPariDispari(listaDuplicata,true);
         stampaPariDispari(listaDuplicata,false);
 
