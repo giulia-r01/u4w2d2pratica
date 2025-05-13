@@ -9,7 +9,7 @@ public class Esercizio1 {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Inserisci il numero di elementi da inserire: ");
+        System.out.println("Inserisci il numero di stringhe da inserire: ");
         int numeroElementi = scanner.nextInt();
         scanner.nextLine();
 
