@@ -1,6 +1,4 @@
-package Esercizio3;
-
-import java.util.Scanner;
+package esercizio3;
 
 public class MainEsercizio3 {
     public static void main(String[] args) {

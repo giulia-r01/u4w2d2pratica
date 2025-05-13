@@ -1,4 +1,4 @@
-package Esercizio3;
+package esercizio3;
 
 import java.util.HashMap;
 import java.util.Set;
